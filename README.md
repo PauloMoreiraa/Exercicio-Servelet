@@ -2,12 +2,12 @@
 
 Este é um servlet simples que calcula permutações e combinações de K elementos a partir de um conjunto com N elementos. Ele permite que os usuários insiram valores de N e K por meio de um formulário HTML e retorna os resultados dos cálculos.
 
-## Requisitos
+## :memo: Requisitos
 
 - Java 8 ou superior
 - Um servidor de aplicação compatível com Servlets (por exemplo, Apache Tomcat)
 
-## Como Usar
+## :monocle_face: Como Usar
 
 1. Clone ou faça o download deste repositório.
 
@@ -19,11 +19,11 @@ Este é um servlet simples que calcula permutações e combinações de K elemen
 
 5. Os resultados das permutações e combinações serão exibidos em uma página separada.
 
-## Mensagens de Erro
+## :rotating_light: Mensagens de Erro
 
 Se você inserir valores não numéricos ou campos vazios para N e/ou K, receberá uma mensagem de erro na página inicial.
 
-## Estrutura do Projeto
+## :building_construction: Estrutura do Projeto
 
 - `index.jsp`: A página inicial que contém o formulário HTML para inserir valores de N e K.
 
@@ -31,6 +31,6 @@ Se você inserir valores não numéricos ou campos vazios para N e/ou K, receber
 
 - `resultado.jsp`: A página que exibe os resultados dos cálculos.
 
-## Contribuições
+## :technologist: Contribuições
 
 Sinta-se à vontade para contribuir para este projeto, reportar problemas ou propor melhorias. Ficaremos felizes em receber contribuições da comunidade.
